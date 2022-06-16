@@ -1,0 +1,10 @@
+C:\Users\30045900\Documents\Assessment\database a2_3\A3frontend\A3frontend\bin\Debug\A3frontend.dacpac
+C:\Users\30045900\Documents\Assessment\database a2_3\A3frontend\A3frontend\bin\Debug\A3frontend.dll
+C:\Users\30045900\Documents\Assessment\database a2_3\A3frontend\A3frontend\bin\Debug\A3frontend.pdb
+C:\Users\30045900\Documents\Assessment\database a2_3\A3frontend\A3frontend\obj\Debug\A3frontend.sqlproj.AssemblyReference.cache
+C:\Users\30045900\Documents\Assessment\database a2_3\A3frontend\A3frontend\obj\Debug\Model.xml
+C:\Users\30045900\Documents\Assessment\database a2_3\A3frontend\A3frontend\obj\Debug\refactor.xml
+C:\Users\30045900\Documents\Assessment\database a2_3\A3frontend\A3frontend\obj\Debug\postdeploy.sql
+C:\Users\30045900\Documents\Assessment\database a2_3\A3frontend\A3frontend\obj\Debug\predeploy.sql
+C:\Users\30045900\Documents\Assessment\database a2_3\A3frontend\A3frontend\obj\Debug\A3frontend.dll
+C:\Users\30045900\Documents\Assessment\database a2_3\A3frontend\A3frontend\obj\Debug\A3frontend.pdb
